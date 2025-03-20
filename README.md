@@ -3,14 +3,14 @@
 
 ## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hey there! 👋 I'm Bhargav Sandilya, a recent grad with a huge interest in cybersecurity and a goal to become a penetration tester.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+I’ve been diving into the world of cybersecurity through personal projects, online courses, and certifications. I’ve learned a lot about ethical hacking, network security, and vulnerability testing, and I’m excited to keep growing in this field. I’m still building my experience, but I’m passionate about learning and tackling new challenges every day.
 ## Skills
+
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
